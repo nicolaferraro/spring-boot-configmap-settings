@@ -1,0 +1,6 @@
+# Fabric8 profile for just deploying the configmap
+- name: configuration
+  generator:
+    includes: []
+  enricher:
+    includes: []
